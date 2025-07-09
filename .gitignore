@@ -1,3 +1,5 @@
 target
 wildfly-30.0.1.Final.tar.gz
 wildfly
+venv
+__pycache__
